@@ -1,4 +1,4 @@
 build/*
-!build/Makefile
+build/Makefile
 *.out
 *.err
